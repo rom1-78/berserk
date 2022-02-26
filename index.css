@@ -1,6 +1,11 @@
+body
+	{
+		background-image: url("https://static.fnac-static.com/multimedia/Images/FD/Comete/125059/CCP_IMG_ORIGINAL/1631241.jpg");
+	}
+
 h1
 	{
 		text-align: center;
 		color: red;
-		padding: 20%;
+		padding: 27%;
 	}
